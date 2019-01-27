@@ -31,7 +31,7 @@ To verify, check `%APPDATA%\udemy-downloader\udemy.properties` location
 ## Known bugs
 * Not handled when internet connection is not there
 * Tested for few courses, so for some courses it can behave weird (I don't know :grin:)
-* If anything you finds, please feel free to create an Issue in github
+* If you find anything, please feel free to create an Issue in Github
 
 ## Raise query
 Feel free to raise issues in github. If you want to get in touch ping me in [Telegram](https://t.me/thegr8uk)
