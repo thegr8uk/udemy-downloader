@@ -28,7 +28,7 @@ example: `udemy.exe -u https://www.udemy.com/aws-concepts/ -q medium`
 `udemy.exe -c CLEAR`
 To verify, check `%APPDATA%\udemy-downloader\udemy.properties` location
 
-## Known bugs :sad:
+## Known bugs
 * Not handled when internet connection is not there
 * Tested for few courses, so for some courses it can behave weird (I don't know :grin:)
 * If anything you finds, please feel free to create an Issue in github
