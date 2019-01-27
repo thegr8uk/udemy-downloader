@@ -34,4 +34,4 @@ To verify, check `%APPDATA%\udemy-downloader\udemy.properties` location
 * If anything you finds, please feel free to create an Issue in github
 
 ## Raise query
-Feel free to raise issues in github. If you want to get in touch ping me in [Telegram](https://t.me/@thegr8uk)
+Feel free to raise issues in github. If you want to get in touch ping me in [Telegram](https://t.me/thegr8uk)
